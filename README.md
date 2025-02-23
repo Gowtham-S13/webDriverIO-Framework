@@ -66,7 +66,7 @@ This folder structure ensures that your tests are well-organized, reusable, and 
 - **Run in Edge**
 
   ```
-   npm run chrome-test
+   npm run edge-test
 
   ```
 
