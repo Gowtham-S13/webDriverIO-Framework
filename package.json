@@ -1,5 +1,5 @@
 {
-  "name": "WebdriverIo",
+  "name": "automation",
   "type": "module",
   "scripts": {
     "chrome-test": "wdio run wdio.conf.js",
