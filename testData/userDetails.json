@@ -1,0 +1,16 @@
+{
+  "existingUserDetails": {
+    "userEmail": "automationtest123@mailinator.com",
+    "password": "!Password1",
+    "userName": "test",
+    "fullName": "Automation test",
+    "company": "AutoTest",
+    "address1": "123",
+    "address2": "123",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "postCode": "600001",
+    "country": "India",
+    "phone": "1234567"
+  }
+}

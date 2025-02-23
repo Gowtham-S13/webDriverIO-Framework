@@ -1,0 +1,20 @@
+{
+  "name": "WebdriverIo",
+  "type": "module",
+  "scripts": {
+    "chrome-test": "wdio run wdio.conf.js",
+    "edge-test": "npx wdio wdio.conf.js --browserName=MicrosoftEdge ",
+    "generate-report": "npx allure generate allure-results --single-file allure-results --clean"
+  },
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.9.0",
+    "@wdio/cli": "^9.9.3",
+    "@wdio/local-runner": "^9.9.3",
+    "@wdio/mocha-framework": "^9.9.0",
+    "@wdio/spec-reporter": "^9.9.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.5.0",
+    "chai": "^5.2.0"
+  }
+}
