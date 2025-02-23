@@ -1,11 +1,8 @@
+import { expect } from "chai";
 import pageElements from "./landingPage.elements.js";
 import Page from "../page.js";
 import common from "../../utilities/commonUtilities.js";
-import { expect } from "chai";
 
-/**
- * sub page containing specific selectors and methods for a specific page
- */
 class langingPage extends Page {
   get elements() {
     return pageElements;

@@ -1,10 +1,10 @@
+import { expect } from "chai";
 import step from "@wdio/allure-reporter";
 import landingPage from "../pageobjects/loginPage/landing.page";
 import credentials from "../../testData/userDetails.json";
 import cartPage from "../pageobjects/cartPage/cartPage";
 import productPage from "../pageobjects/productPage/productPage";
 import common from "../utilities/commonUtilities";
-import { expect } from "chai";
 import productDetails from "../../testData/productDetails.json";
 
 describe("Products", () => {

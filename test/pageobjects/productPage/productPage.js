@@ -1,6 +1,6 @@
+import page from "../page";
 import common from "../../utilities/commonUtilities";
 import landingPage from "../loginPage/landing.page";
-import page from "../page";
 import pageElements from "./productPage.element";
 
 class productPage extends page {
