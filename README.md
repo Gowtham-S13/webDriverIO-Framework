@@ -1,4 +1,4 @@
-# Amazon Test Automation
+# Test Automation
 
 ## Overview
 
